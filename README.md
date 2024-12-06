@@ -1,0 +1,1 @@
+Developed a dynamic and interactive web-based game where users earn points by catching a falling ball. The game features a simple and intuitive design, responsive controls, and real-time score updates. Built using HTML, CSS, JavaScript, it ensures a smooth gaming experience across devices. Ideal for demonstrating problem-solving and quick reflexes in a fun, engaging way.
